@@ -1,0 +1,50 @@
+/* ---------------------------------- *\
+                Fonts
+\* ----------------------------------- */
+
+@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@300;400;500;700&display=swap');
+
+/* ---------------------------------- *\
+               Utilities
+\* ----------------------------------- */
+
+body {
+    font-family: 'Poppins', sans-serif !important;
+}
+
+/* ---------------------------------- *\
+               Custom CSS
+\* ----------------------------------- */
+
+/* Navbar Section CSS*/
+
+.bg-navbar {
+    background: #ffffe0;
+}
+
+.subscribe {
+    background: #fcebe9;
+}
+.slider {
+    margin-top: 70px !important;
+    background: #fcebe9;
+}
+
+.slider-content button {
+    background: #ffff00;
+}
+.slider-content button:hover {
+    background-image: linear-gradient(#ffff00,#fa8196);
+}
+
+/*Shoes section CSS*/
+
+.product-card-footer {
+    background-color: #00000000 !important;
+    border-top: 1px solid #00000000 !important;
+}
+
+
+.btn-color {
+    background-image: linear-gradient(to bottom, #FF589B 0%, #ff4b92 100%);
+}
